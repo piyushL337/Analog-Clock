@@ -19,7 +19,7 @@ body {
 }
 
 @font-face {
-  src: url("font/sans.ttf");
+  src: url("https://piyushjoshi.tk/font/sans.ttf");
   font-family: "sans";
 }
 
@@ -40,7 +40,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(https://piyushl337.github.io/assets/clock.png);
+  background: url(image/clock.png);
   background-size: cover;
 }
 
